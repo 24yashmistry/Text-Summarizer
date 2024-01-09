@@ -1,1 +1,4 @@
-## Simple Text Summarizing Tool 
+## Simple Text Summarizing Tool
+
+this is a simple text summarizing project for learning purpose
+
